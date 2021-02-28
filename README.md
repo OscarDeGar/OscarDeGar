@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋! I'm Oscar
+
+I'm a student at <a href='https://www.olin.edu' target='_blank' rel='noopener noreferrer'>Olin College</a>, Class of 2023, in Needham, MA. I am seeking a degree in Engineering with Computing. I am passionate about computing topics and enjoy video-game topics in particular. Development, design, etc.
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-oscardelagarza?&style=flat&logo=Linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/oscardelagarza/ "Connect on LinkedIn")
 
 <!--
 **OscarDeGar/OscarDeGar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
